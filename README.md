@@ -1,1 +1,1 @@
-# prisma-api-toStudy
+# api-toStudy

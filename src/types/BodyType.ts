@@ -1,0 +1,3 @@
+type BodyType = {
+    name
+}
