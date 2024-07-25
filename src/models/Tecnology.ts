@@ -4,4 +4,6 @@ type Tecnology = {
     studied:boolean
     deadline:Date
     created_at:Date
+    user: User
+    username:String
 }
